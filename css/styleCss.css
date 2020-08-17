@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Montserrat, sans-serif;
+    max-width: 1280px;
+    background-color: #f5f7fa;
+    margin: 0 auto;
+}
+.block-resume{
+    display: flex;
+    margin: 40px ;
+    max-width: 1200px;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+    background-color: #ffffff;
+}
+aside {
+    width : 370px;
+    background-color: #1e2939;
+}
+.block-aside{
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 376px;
+}
+.block-C{
+    color: #ffffff;
+    font-weight: 700;
+    padding-right: 10px;
+}
+aside a{
+    color: #8e949c;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    /*opacity: 1.5;*/
+    /*color: #ffffff;*/
+}
+.title-contacts,
+.title-Tech-Skills,
+.title-Soft-Skills {
+    padding-top: 55px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+}
+.span-Tech-Skills,
+.span-Soft-Skills{
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.li-Tech-Skills,
+.li-Soft-Skills{
+    color: #ff6b08;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+/*************************************************************/
+.content{
+    overflow: auto;
+    padding: 110px 50px 30px 90px;
+    color: #000000;
+}
+.Front-End-Developer{
+    font-size : 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.Vadik-Toropov{
+    font-size: 45px;
+    font-weight: 700;
+    /*line-height: 89px;*/
+    padding: 25px 0 25px;
+}
+.content-text{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    padding-right: 240px;
+}
+.title-project{
+    padding: 65px 0 15px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.ol-li-projects{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    margin-left: 17px;
+}
+.a-projects, .span-projects{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    padding:0 6px 0;
+}
+.tile-work-experince{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-top: 50px;
+}
+.title-front-end-developer{
+    padding: 25px 0 15px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.span-colors-title-front-end-developer{
+    color: #ff6b08;
+}
+.p-data{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a8a8a8;
+    padding-bottom: 15px;
+}
+.span-p-data{
+    color: #000000;
+    font-weight: 600;
+}
+.ul-li-projects{
+    margin-left: 17px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+.management{
+    font-size: 16px;
+    font-weight: 700;
+    /*line-height: 24px;*/
+    padding-bottom: 15px;
+}
+img{
+     padding-top:40px;
+ }
+
